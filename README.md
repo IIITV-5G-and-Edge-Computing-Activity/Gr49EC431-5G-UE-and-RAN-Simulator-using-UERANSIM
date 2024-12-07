@@ -1,5 +1,17 @@
 # 5G UE and RAN Simulator with Open5GS and UERANSIM
 
+## Group: Gr49EC431
+- Govind Garg 202111032
+- Gunal Gupta 202111033
+- Md Khalilul Rahman 202111052
+- Rohit Shirsat 202111071
+- Rohith M 202111072
+
+**[Project Report Link](https://www.overleaf.com/read/zbypbygszzrq#e4dfcc)**  
+**[Video Demo Link](https://drive.google.com/file/d/19sKhMveHKAjMcRhCdqKWVjTYK596GklT/view?usp=sharing)**
+
+
+
 ## Overview
 This project demonstrates the simulation of a 5G network using Open5GS as the 5G core and UERANSIM for User Equipment (UE) and Radio Access Network (RAN) emulation. It includes configurations for deploying a fully functional 5G setup, testing connectivity, and analyzing network performance.
 
